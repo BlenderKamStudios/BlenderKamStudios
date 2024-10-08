@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi I am Kamran,a self trained blender artist now looking to develop my skills on making video games through coding
+
 - 🔭 I’m currently working on a shadow fight like game
 - 🌱 I’m currently learning javascript and html
 - 👯 I’m looking to collaborate on blender
