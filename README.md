@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a shadow fight like game
+- 🌱 I’m currently learning javascript and html
+- 👯 I’m looking to collaborate on blender
+- 📫 How to reach me: kamrulislamkmran@gmail.com
+
+
 <!--
 **BlenderKamStudios/BlenderKamStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
