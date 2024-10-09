@@ -2,7 +2,7 @@
 
 Hi I am Kamran,a self trained blender artist now looking to develop my skills on making video games through coding
 
-- 🔭 I’m currently working on a shadow fight like game
+- 🔭 I’m currently studying at BRAC University
 - 🌱 I’m currently learning javascript and html
 - 👯 I’m looking to collaborate on blender
 - 📫 How to reach me: kamrulislamkmran@gmail.com
