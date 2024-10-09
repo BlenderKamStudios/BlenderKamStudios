@@ -7,7 +7,7 @@ Hi I am Kamran,a self trained blender artist now looking to develop my skills on
 - 👯 I’m looking to collaborate on blender
 - 📫 How to reach me: kamrulislamkmran@gmail.com
 
-[![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderKamStudios&show_icons=true&theme=radical)]
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderKamStudios&show_icons=true&theme=radical)
 
 
 <!--
