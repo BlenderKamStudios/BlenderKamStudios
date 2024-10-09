@@ -7,7 +7,7 @@ Hi I am Kamran,a self trained blender artist now looking to develop my skills on
 - 👯 I’m looking to collaborate on blender
 - 📫 How to reach me: kamrulislamkmran@gmail.com
 
-[![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderKamStudios)](https://github.com/BlenderKamStudios/github-readme-stats)
+[![Kamran's GitHub stats]([https://github-readme-stats.vercel.app/api?username=BlenderKamStudios](https://github-readme-stats.vercel.app/api?username=BlenderKamStudios&show_icons=true&theme=radical))](https://github.com/BlenderKamStudios/github-readme-stats)
 
 <!--
 **BlenderKamStudios/BlenderKamStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
